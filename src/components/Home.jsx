@@ -15,7 +15,7 @@ const Home = () => {
           Incoming Full Stack Developer.
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-        A Information Tech student from USA. I aim to deepen my understanding in various areas of technology and product development.
+        An Information Tech student from USA. I aim to deepen my understanding in various areas of technology and product development.
         </p>
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600' >

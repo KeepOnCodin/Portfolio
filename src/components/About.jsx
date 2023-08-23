@@ -15,7 +15,7 @@ const About = () => {
                     <p>Hi. I'm Yusuf, nice to meet you. Please take a look around.</p>
                 </div>
                 <div>
-                    <p>I am passionate college student majoring in Cloud Computing.
+                    <p>I'm a passionate college student majoring in Cloud Computing.
                         Proficient in Java, JavaScript/node.js, Python, and C#, I'm skilled in creating REST APIs, 
                         database management, and cloud deployment.
                          I'm dedicated to leveraging my technical and interpersonal skills to drive impactful solutions.</p>
